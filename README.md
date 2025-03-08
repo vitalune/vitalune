@@ -22,7 +22,7 @@ I'm experienced in the following coding languages:
 - **CSS:** ![CSS](https://img.shields.io/badge/CSS-3-blue)
 
 ## 🔬 Projects
-- **WakeBot, an AI-assistive ChatBot:** Utilizes RAG AI properties along with OpenAI API to assist website users with site-navigation.
+- **WakeBot, an AI-assistive ChatBot:** Utilizes RAG properties along with OpenAI API to assist website users with site-navigation.
 [Project Documentation](https://docs.google.com/document/d/1W1x3rcz8sweEhi0Ha7AHim_l84jpfJkS70epoExMIRM/edit?usp=sharing)
 - **RAG ChatBot, the Expansion Project:** Along with some members of the previous WakeBot team, working to develop cutting-edge chatbots to enhance user experience and improve information tracking in companies' websites.
 - **CS50 Portfolio:** Showcasing projects from Harvard's CS50, organized by week.
