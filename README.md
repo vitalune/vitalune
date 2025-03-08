@@ -1,6 +1,6 @@
 # Hi, I'm Amir Valizadeh 👋
 
-**I'm an 18-year-old incoming freshman at the University of Pittsburgh studying Computer Science.** Passionate about artificial intelligence and machine learning, I’m building a strong foundation with courses and hands-on projects before diving into advanced topics like deep learning regression and neural networks. My goal is to not only contribute- but become a leader in the worldwide availability of AI technologies, and the progression of the become a leader in the growth of AI worldwide.
+**I'm an 18-year-old incoming freshman at the University of Pittsburgh studying Computer Science.** Passionate about artificial intelligence and machine learning, I’m building a strong foundation with courses and hands-on projects before diving into advanced topics like deep learning regression and neural networks. My goal is to not only contribute- but become a leader in the worldwide availability of AI technologies, and the further redefinition of what "*artificial intelligence*" truly means.
 
 ## 🎓 Education & Courses
 - <a href="https://www.cs.pitt.edu" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/University_of_Pittsburgh_seal.svg/1200px-University_of_Pittsburgh_seal.svg.png" width="50" style="vertical-align:middle; margin-right:10px;" alt="Pittsburgh Logo"/>
