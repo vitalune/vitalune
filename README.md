@@ -20,6 +20,7 @@ I'm experienced in the following coding languages:
 (for website-building):
 - **HTML:** ![HTML](https://img.shields.io/badge/HTML-5-orange)
 - **CSS:** ![CSS](https://img.shields.io/badge/CSS-3-blue)
+- **JavaScript:** ![JavaScript](https://img.shields.io/badge/JavaScript-11-yellow)
 
 ## 🔬 Projects
 - **WakeBot, an AI-assistive ChatBot:** Utilizes RAG properties along with OpenAI API to assist website users with site-navigation.
