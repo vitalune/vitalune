@@ -2,12 +2,14 @@
 
 **I'm an 18-year-old incoming freshman at the University of Pittsburgh studying Computer Science.** Passionate about artificial intelligence and machine learning, I’m building a strong foundation with courses and hands-on projects before diving into advanced topics like deep learning regression and neural networks. My goal is to not only contribute- but become a leader in the worldwide availability of AI technologies, and the further redefinition of what "*artificial intelligence*" truly means.
 
-## 🎓 Education & Courses
+## 🎓 Education, Courses, & Certifications
 - <a href="https://www.cs.pitt.edu" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/University_of_Pittsburgh_seal.svg/1200px-University_of_Pittsburgh_seal.svg.png" width="50" style="vertical-align:middle; margin-right:10px;" alt="Pittsburgh Logo"/>
   </a>**[University of Pittsburgh](https://www.cs.pitt.edu):** Incoming freshman, Computer Science.
 - <a href="https://cs50.harvard.edu" style="text-decoration: none;"><img src="https://pll.harvard.edu/sites/default/files/styles/4_5_small/public/schools/logo/harvard-engineering.png?itok=su8Pae_w" width="50" style="vertical-align:middle; margin-right:10px;" alt="Harvard Logo"/>
   </a>**[Harvard's CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science):** Sharpening my programming and problem-solving skills.
 - **[NOVA's Web Design Course](https://www.nvcc.edu/academics/programs/web-design-and-development.html):** Mastering responsive and engaging web design.
+
+- <a href="https://www.credly.com/badges/a3f2cd73-1a32-44f3-9c31-89f1bfb83128/public_url" style="text-decoration: none;"><img src="https://images.credly.com/images/fb8af063-d5df-43f6-be4c-c2ba6e8f6535/image.png" width="100" style="vertical-align:middle; margin-right:10px;" alt="JS certificate logo"/>[Entry-Level Web Developer Certification](https://www.credly.com/badges/a3f2cd73-1a32-44f3-9c31-89f1bfb83128/public_url)
 
 ## 💻 Coding Languages
 I'm experienced in the following coding languages:
