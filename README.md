@@ -7,7 +7,7 @@
   </a>**[University of Pittsburgh](https://www.cs.pitt.edu):** Incoming freshman, Computer Science.
 - <a href="https://cs50.harvard.edu" style="text-decoration: none;"><img src="https://pll.harvard.edu/sites/default/files/styles/4_5_small/public/schools/logo/harvard-engineering.png?itok=su8Pae_w" width="50" style="vertical-align:middle; margin-right:10px;" alt="Harvard Logo"/>
   </a>**[Harvard's CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science):** Sharpening my programming and problem-solving skills.
-- <a href="https://www.nvcc.edu/" style="text-decoration: none;"><img src="novalogo.jpg" width="50" style="vertical-align:middle; margin-right:10px;" alt="NOVA Logo"/>
+- <a href="https://www.nvcc.edu/" style="text-decoration: none;"><img src="https://yt3.googleusercontent.com/Er00UolAUeeLpjdlcg1vpow4q7EW3dr2CedgfIexQWE75GmecyJUegNMsDM2mES6OpaVlwSSrQ=s900-c-k-c0x00ffffff-no-rj" width="50" style="vertical-align:middle; margin-right:10px; border-radius: 50%; overflow: hidden;" alt="NOVA Logo"/>
   </a>**[NOVA's Web Design Course](https://www.nvcc.edu/academics/programs/web-design-and-development.html):** Mastering responsive and engaging web design.
 
 - <a href="https://www.credly.com/badges/a3f2cd73-1a32-44f3-9c31-89f1bfb83128/public_url" style="text-decoration: none;"><img src="https://images.credly.com/images/fb8af063-d5df-43f6-be4c-c2ba6e8f6535/image.png" width="100" style="vertical-align:middle; margin-right:10px;" alt="JS certificate logo"/>[Entry-Level Web Developer Certification](https://www.credly.com/badges/a3f2cd73-1a32-44f3-9c31-89f1bfb83128/public_url)
