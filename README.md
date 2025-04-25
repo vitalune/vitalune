@@ -12,7 +12,7 @@
 - <a href="https://www.nvcc.edu/" style="text-decoration: none;"><img src="https://yt3.googleusercontent.com/Er00UolAUeeLpjdlcg1vpow4q7EW3dr2CedgfIexQWE75GmecyJUegNMsDM2mES6OpaVlwSSrQ=s900-c-k-c0x00ffffff-no-rj" width="50" style="vertical-align:middle; margin-right:10px; border-radius: 50%; overflow: hidden;" alt="NOVA Logo"/>
   </a>**[NOVA's Web Design Course](https://www.nvcc.edu/academics/programs/web-design-and-development.html):** Mastering responsive and engaging web design.
 
-- <a href="https://www.credly.com/badges/a3f2cd73-1a32-44f3-9c31-89f1bfb83128/public_url" style="text-decoration: none;"><img src="https://images.credly.com/images/fb8af063-d5df-43f6-be4c-c2ba6e8f6535/image.png" width="100" style="vertical-align:middle; margin-right:10px;" alt="JS certificate logo"/>[Entry-Level Web Developer Certification](https://www.credly.com/badges/a3f2cd73-1a32-44f3-9c31-89f1bfb83128/public_url)
+- <a href="https://www.credly.com/badges/a3f2cd73-1a32-44f3-9c31-89f1bfb83128/public_url" style="text-decoration: none;"><img src="https://images.credly.com/images/fb8af063-d5df-43f6-be4c-c2ba6e8f6535/image.png" width="50" style="vertical-align:middle; margin-right:10px;" alt="JS certificate logo"/>[Entry-Level Web Developer Certification](https://www.credly.com/badges/a3f2cd73-1a32-44f3-9c31-89f1bfb83128/public_url)
 
 ## 💻 Coding Languages
 I'm experienced in the following coding languages:
