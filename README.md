@@ -1,6 +1,6 @@
 # Hi, I'm Amir Valizadeh 👋 
 
-![Amir's github stats](https://github-readme-stats.vercel.app/api?username=vitalune&show_icons=true&theme=tokyonight)
+![Amir's github stats](https://github-readme-stats.vercel.app/api?username=vitalune&hide=stars&theme=tokyonight)
 
 **I'm an 18-year-old incoming freshman at the University of Pittsburgh studying Computer Science.** Passionate about artificial intelligence and machine learning, I’m building a strong foundation through courses, and developing hands-on proficiency of AI models with personal projects. My goal is to not only contribute- but become a leader in the worldwide availability of AI technologies, and the further redefinition of what "*artificial intelligence*" truly means.
 
