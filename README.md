@@ -44,4 +44,4 @@ I'm experienced in the following coding languages:
 
 ## 📫 Get in Touch
 <p>I'm always open to discussions about technology, AI, and collaboration opportunities. Feel free to email me: amirv2021@gmail.com
-                                                                                      or contact me on Linkedin: <a href="www.linkedin.com/in/amir-valizadeh104">Amir Valizadeh</a></p>
+                                                                                      or contact me on Linkedin: <a href="https://www.linkedin.com/in/amir-valizadeh104" target="_blank">Amir Valizadeh</a></p>
