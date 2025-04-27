@@ -26,20 +26,22 @@ I'm experienced in the following coding languages:
 - **HTML:** ![HTML](https://img.shields.io/badge/HTML-5-orange)
 - **CSS:** ![CSS](https://img.shields.io/badge/CSS-3-blue)
 - **JavaScript:** ![JavaScript](https://img.shields.io/badge/JavaScript-11-yellow)
+- **Typescript:** [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 
 ## 🔬 Projects
 - **WakeBot, an AI-assistive ChatBot:** Utilizes RAG properties along with OpenAI API to assist website users with site-navigation.
   - [Project Documentation](https://docs.google.com/document/d/1W1x3rcz8sweEhi0Ha7AHim_l84jpfJkS70epoExMIRM/edit?usp=sharing)
-- **RAG ChatBot, the Expansion Project:** Along with some members of the previous WakeBot team, working to develop cutting-edge chatbots to enhance user experience and improve information tracking in companies' websites.
+- **RAG ChatBot, the Expansion Project:** Working to develop cutting-edge chatbots to enhance inbound opportunities and improve information tracking in companies' websites.
   - [ChatBot Repository](https://github.com/vitalune/TaytBot-1o)
-- **CS50 Portfolio:** Showcasing projects from Harvard's CS50, organized by week.
-  - [CS50 Repository](https://github.com/vitalune/CS50-portfolio)
-- **Web Design Projects:** A collection of projects highlighting responsive web design skills.
-  - [Web Design Repository](https://github.com/vitalune/vitalune.github.io)
+- **FilterForge:** A web application that lets you apply "uncommon" filters to your photos.
+  - [FilterForge Repository](https://github.com/vitalune/FilterForge)
+- **LLM-Project:** Using Python and Jupyter Lab to create a LLM from scratch.
+  - [LLM Repository](https://github.com/vitalune/LLM-Project)
 
 ## 🌱 Future Goals
 - **Deepen My Expertise:** Advance from foundational courses to exploring deep learning, neural networks, and advanced AI applications.
 - **Innovate & Lead:** Contribute to pioneering projects and become a driving force in AI research and development worldwide.
 
 ## 📫 Get in Touch
-I'm always open to discussions about technology, AI, and collaboration opportunities. Feel free to email me at amirv2021@gmail.com.
+<p>I'm always open to discussions about technology, AI, and collaboration opportunities. Feel free to email me: amirv2021@gmail.com
+                                                                                      or contact me on Linkedin: <a href="www.linkedin.com/in/amir-valizadeh104">Amir Valizadeh</a></p>
