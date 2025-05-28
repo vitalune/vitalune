@@ -15,12 +15,12 @@
 ## 💻 Coding Languages
 I'm experienced in the following coding languages:
 
-(frontend):
+(backend):
 - **C:** ![C](https://img.shields.io/badge/C-Standard-blue)
 - **Java:** ![Java](https://img.shields.io/badge/Java-OpenJDK-red)
 - **Python:** ![Python](https://img.shields.io/badge/Python-3.9-blue)
 
-(backend):
+(frontend):
 - **HTML:** ![HTML](https://img.shields.io/badge/HTML-5-orange)
 - **CSS:** ![CSS](https://img.shields.io/badge/CSS-3-blue)
 - **JavaScript:** ![JavaScript](https://img.shields.io/badge/JavaScript-11-yellow)
