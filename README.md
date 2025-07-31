@@ -31,28 +31,22 @@ I'm passionate about building production-ready LLMs, AI-powered applications, an
 
 ## 🎯 Featured Projects
 
-### [Ovarra-v1: Business Planning Assistant](https://github.com/vitalune/ovarra-v1)
+### [Ovarra-v1: Business Planning Assistant](https://huggingface.co/vitalune/ovarra-v1)
 Fine-tuned Mistral-7B model designed to guide startup founders with AI tool recommendations
 - 🔥 Helped 100+ startup founders accelerate business development
 - 📊 Trained on ~1,500 GPT-4-generated prompt-response pairs
 - ⚡ Implemented QLoRA (4-bit) and Flash Attention 2 for efficient training
 - 🎯 Provides structured roadmaps, clarifying questions, and contextual AI tool recommendations
 
-### [Optimarch: AI Automation Services Website](https://optimarch.ai)
+### [Optimarch: AI Automation Services Website](https://optimarch.co)
 Modern NextJS website showcasing AI capabilities through impressive 3D visuals
 - 🎨 Built with Next.js 14+, TypeScript, and Tailwind CSS
 - 🌟 3D graphics using React Three Fiber with custom particle systems
 - 📱 Optimized for mobile with lazy loading and comprehensive SEO
 - 🤖 Features MCP servers with agentic AI systems and Zod form validation
 
-### [WakeBot: AI-Assistive ChatBot](https://github.com/vitalune/wakebot)
-Intelligent chatbot leveraging RAG properties and OpenAI API
-- 💬 Implemented Retrieval-Augmented Generation for context-aware responses
-- 🔍 Integrated with OpenAI API for natural language understanding
-- 🎯 Designed to assist website users with navigation and information retrieval
-
 ### [Custom LLM Implementation](https://github.com/vitalune/LLM-Project)
-End-to-end implementation of a Large Language Model using Python and Jupyter Lab
+End-to-end implementation of a Large Language Model using PyTorch and Jupyter Lab
 - 🏗️ Built transformer architecture from scratch with multi-head attention
 - 🔧 Implemented custom tokenizer and training pipeline
 - 📚 Created comprehensive documentation for educational purposes
@@ -101,8 +95,8 @@ End-to-end implementation of a Large Language Model using Python and Jupyter Lab
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://linkedin.com/in/amirvalizadeh)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=fff)](mailto:amirv2021@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://linkedin.com/in/amir-valizadeh104)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=fff)](mailto:amirvalizadeh161@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/vitalune)
 
 ---
