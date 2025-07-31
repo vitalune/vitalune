@@ -6,8 +6,8 @@ I'm passionate about building production-ready LLMs, AI-powered applications, an
 
 ## 🚀 What I'm Working On
 
+- 🧠 **Personal Knowledge Assistant MCP Server**: A comprehensive Model Context Protocol server that transforms personal information management across email, social media, documents, and productivity metrics
 - 🤖 Building custom LLM implementations with transformer architectures and RAG systems
-- 🧠 Developing a personal AI knowledge assistant using MCP (Model Context Protocol) server
 - 🎨 Creating immersive web experiences with React, Next.js, and Three.js
 - 📚 Open-source educational resources for LLM development
 
@@ -31,6 +31,15 @@ I'm passionate about building production-ready LLMs, AI-powered applications, an
 
 ## 🎯 Featured Projects
 
+### [Personal Knowledge Assistant MCP Server](https://github.com/vitalune/Nexus-MCP)
+A comprehensive Model Context Protocol server that revolutionizes personal information management
+- 📧 **Email Intelligence**: Smart email management with AI-powered analysis and composition
+- 🌐 **Social Media Integration**: Multi-platform support (Twitter, LinkedIn, Facebook, Instagram) with performance analytics
+- 📊 **Personal Analytics**: Track productivity metrics, habits, and goals with data-driven insights
+- 🔒 **Privacy-First**: End-to-end encryption, local processing, GDPR compliant
+- 🛠️ **7 Powerful MCP Tools**: Including email analysis, social media management, project tracking, and insight generation
+- 🧠 **AI-Powered Insights**: Behavioral pattern detection, predictive analytics, and relationship mapping
+
 ### [Ovarra-v1: Business Planning Assistant](https://huggingface.co/vitalune/ovarra-v1)
 Fine-tuned Mistral-7B model designed to guide startup founders with AI tool recommendations
 - 🔥 Helped 100+ startup founders accelerate business development
@@ -46,7 +55,7 @@ Modern NextJS website showcasing AI capabilities through impressive 3D visuals
 - 🤖 Features MCP servers with agentic AI systems and Zod form validation
 
 ### [Custom LLM Implementation](https://github.com/vitalune/LLM-Project)
-End-to-end implementation of a Large Language Model using PyTorch and Jupyter Lab
+End-to-end implementation of a Large Language Model using Python and Jupyter Lab
 - 🏗️ Built transformer architecture from scratch with multi-head attention
 - 🔧 Implemented custom tokenizer and training pipeline
 - 📚 Created comprehensive documentation for educational purposes
@@ -58,8 +67,11 @@ End-to-end implementation of a Large Language Model using PyTorch and Jupyter La
 ![Transformers](https://img.shields.io/badge/Transformers-FFD43B?logo=huggingface&logoColor=333)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?logo=chainlink&logoColor=fff)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff)
+![MCP](https://img.shields.io/badge/MCP-Protocol-blue)
+![Chainlit](https://img.shields.io/badge/Chainlit-FF6B6B?logo=chat&logoColor=fff)
+![Axolotl](https://img.shields.io/badge/Axolotl-4B0082?logo=ai&logoColor=fff)
 
-**Expertise:** Fine-tuning (QLoRA, LoRA), RAG Systems, Transformer Architecture, Model Evaluation, Prompt Engineering
+**Expertise:** Fine-tuning (QLoRA, LoRA), RAG Systems, Transformer Architecture, Flash Attention, Model Evaluation, Prompt Engineering, Model Context Protocol (MCP), Chainlit, Axolotl
 
 ### Web Technologies
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff)
@@ -67,6 +79,8 @@ End-to-end implementation of a Large Language Model using PyTorch and Jupyter La
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=fff)
 ![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=fff)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=fff)
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
@@ -78,6 +92,12 @@ End-to-end implementation of a Large Language Model using PyTorch and Jupyter La
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)
 ![RunPod](https://img.shields.io/badge/RunPod-6B46C1?logo=rocket&logoColor=fff)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?logo=githubactions&logoColor=fff)
+
+### Data & Tools
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff)
+![MCP](https://img.shields.io/badge/MCP_Servers-000?logo=server&logoColor=fff)
+![Encryption](https://img.shields.io/badge/End--to--End_Encryption-007ACC?logo=shield&logoColor=fff)
+![Analytics](https://img.shields.io/badge/Data_Analytics-4285F4?logo=googleanalytics&logoColor=fff)
 
 ## 🎓 Education & Certifications
 
@@ -95,12 +115,12 @@ End-to-end implementation of a Large Language Model using PyTorch and Jupyter La
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://linkedin.com/in/amir-valizadeh104)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=fff)](mailto:amirvalizadeh161@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://linkedin.com/in/amirvalizadeh)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=fff)](mailto:amirv2021@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/vitalune)
 
 ---
 
-💡 **Currently exploring:** Advanced LLM architectures, MCP server implementations, and agentic AI systems
+💡 **Currently exploring:** Advanced MCP server implementations for personal knowledge management, agentic AI systems, and privacy-preserving ML techniques
 
 🌟 **Fun fact:** I built my first transformer model from scratch at 18!
