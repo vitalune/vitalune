@@ -115,8 +115,8 @@ End-to-end implementation of a Large Language Model using Python and Jupyter Lab
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://linkedin.com/in/amirvalizadeh)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=fff)](mailto:amirv2021@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://linkedin.com/in/amir-valizadeh104)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=fff)](mailto:amirvalizadeh161@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/vitalune)
 
 ---
