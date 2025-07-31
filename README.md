@@ -1,45 +1,112 @@
-# Hi, I'm Amir Valizadeh 👋 
+# Hi, I'm Amir Valizadeh 👋
 
-**I'm an 18-year-old incoming freshman at the University of Pittsburgh studying Computer Science.** Passionate about artificial intelligence and machine learning, I’m building a strong foundation through courses, and developing hands-on proficiency of AI models with personal projects. My goal is to not only contribute- but become a leader in the worldwide availability of AI technologies, and the further redefinition of what "*artificial intelligence*" truly means.
+**AI/ML Engineer & Full-Stack Developer** | Computer Science @ University of Pittsburgh
 
-## 🎓 Education, Courses, & Certifications
-- <a href="https://www.cs.pitt.edu" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/University_of_Pittsburgh_seal.svg/1200px-University_of_Pittsburgh_seal.svg.png" width="50" style="vertical-align:middle; margin-right:10px;" alt="Pittsburgh Logo"/>
-  </a>**[University of Pittsburgh](https://www.cs.pitt.edu):** Incoming freshman, Computer Science.
-- <a href="https://cs50.harvard.edu" style="text-decoration: none;"><img src="https://pll.harvard.edu/sites/default/files/styles/4_5_small/public/schools/logo/harvard-engineering.png?itok=su8Pae_w" width="50" style="vertical-align:middle; margin-right:10px;" alt="Harvard Logo"/>
-  </a>**[Harvard's CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science):** Sharpening my programming and problem-solving skills.
-- <a href="https://www.nvcc.edu/" style="text-decoration: none;"><img src="https://yt3.googleusercontent.com/Er00UolAUeeLpjdlcg1vpow4q7EW3dr2CedgfIexQWE75GmecyJUegNMsDM2mES6OpaVlwSSrQ=s900-c-k-c0x00ffffff-no-rj" width="50" style="vertical-align:middle; margin-right:10px; border-radius: 50%; overflow: hidden;" alt="NOVA Logo"/>
-  </a>**[NOVA's Web Design Course](https://www.nvcc.edu/academics/programs/web-design-and-development.html):** Mastering responsive and engaging web design.
+I'm passionate about building production-ready LLMs, AI-powered applications, and modern web solutions. Currently developing a fine-tuned business planning model that has helped 100+ startup founders accelerate their business development.
 
-- <a href="https://www.credly.com/badges/a3f2cd73-1a32-44f3-9c31-89f1bfb83128/public_url" style="text-decoration: none;"><img src="https://images.credly.com/images/fb8af063-d5df-43f6-be4c-c2ba6e8f6535/image.png" width="50" style="vertical-align:middle; margin-right:10px;" alt="JS certificate logo"/>[Entry-Level Web Developer Certification](https://www.credly.com/badges/a3f2cd73-1a32-44f3-9c31-89f1bfb83128/public_url)
+## 🚀 What I'm Working On
 
-## 💻 Coding Languages
-I'm experienced in the following coding languages:
+- 🤖 Building custom LLM implementations with transformer architectures and RAG systems
+- 🧠 Developing a personal AI knowledge assistant using MCP (Model Context Protocol) server
+- 🎨 Creating immersive web experiences with React, Next.js, and Three.js
+- 📚 Open-source educational resources for LLM development
 
-(backend):
-- **C:** ![C](https://img.shields.io/badge/C-Standard-blue)
-- **Java:** ![Java](https://img.shields.io/badge/Java-OpenJDK-red)
-- **Python:** ![Python](https://img.shields.io/badge/Python-3.9-blue)
+## 💼 Experience
 
-(frontend):
-- **HTML:** ![HTML](https://img.shields.io/badge/HTML-5-orange)
-- **CSS:** ![CSS](https://img.shields.io/badge/CSS-3-blue)
-- **JavaScript:** ![JavaScript](https://img.shields.io/badge/JavaScript-11-yellow)
-- **Typescript:** [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+### 🔧 Large Language Model (LLM) Developer
+*Self-employed | April 2025 - Present*
+- Built GPT-style transformer from scratch using PyTorch with custom tokenizer and attention mechanisms
+- Fine-tuned models on instruction datasets, deployed via Chainlit for real-time interaction
+- Created open-source educational resources with LLaMA-based scoring
 
-## 🔬 Projects
-- **WakeBot, an AI-assistive ChatBot:** Utilizes RAG properties along with OpenAI API to assist website users with site-navigation.
-  - [Project Documentation](https://docs.google.com/document/d/1W1x3rcz8sweEhi0Ha7AHim_l84jpfJkS70epoExMIRM/edit?usp=sharing)
-- **RAG ChatBot, the Expansion Project:** Working to develop cutting-edge chatbots to enhance inbound opportunities and improve information tracking in companies' websites.
-  - [ChatBot Repository](https://github.com/vitalune/TaytBot-1o)
-- **FilterForge:** A web application that lets you apply "uncommon" filters to your photos.
-  - [FilterForge Repository](https://github.com/vitalune/FilterForge)
-- **LLM-Project:** Using Python and Jupyter Lab to create a LLM from scratch.
-  - [LLM Repository](https://github.com/vitalune/LLM-Project)
+### 🤖 AI Assistant Developer @ hello EIKO
+*AI Startup | August 2024 - Present*
+- Developing AI solutions for SEO & lead generation with RAG chatbots using OpenAI API
+- Building context-aware customer support bots with enhanced website navigation
 
-## 🌱 Future Goals
-- **Deepen My Expertise:** Advance from foundational courses to exploring deep learning, neural networks, and advanced AI applications.
-- **Innovate & Lead:** Contribute to pioneering projects and become a driving force in AI research and development worldwide.
+### 🌐 NextJS Web Developer
+*Freelance | 2024 - Present*
+- Building modern web apps with React/Next.js, TypeScript, and Tailwind CSS
+- Creating 3D visualizations with React Three Fiber and particle effects
 
-## 📫 Get in Touch
-<p>I'm always open to discussions about technology, AI, and collaboration opportunities. Feel free to email me: amirv2021@gmail.com
-                                                                                      or contact me on Linkedin: <a href="https://www.linkedin.com/in/amir-valizadeh104" target="_blank">Amir Valizadeh</a></p>
+## 🎯 Featured Projects
+
+### [Ovarra-v1: Business Planning Assistant](https://github.com/vitalune/ovarra-v1)
+Fine-tuned Mistral-7B model designed to guide startup founders with AI tool recommendations
+- 🔥 Helped 100+ startup founders accelerate business development
+- 📊 Trained on ~1,500 GPT-4-generated prompt-response pairs
+- ⚡ Implemented QLoRA (4-bit) and Flash Attention 2 for efficient training
+- 🎯 Provides structured roadmaps, clarifying questions, and contextual AI tool recommendations
+
+### [Optimarch: AI Automation Services Website](https://optimarch.ai)
+Modern NextJS website showcasing AI capabilities through impressive 3D visuals
+- 🎨 Built with Next.js 14+, TypeScript, and Tailwind CSS
+- 🌟 3D graphics using React Three Fiber with custom particle systems
+- 📱 Optimized for mobile with lazy loading and comprehensive SEO
+- 🤖 Features MCP servers with agentic AI systems and Zod form validation
+
+### [WakeBot: AI-Assistive ChatBot](https://github.com/vitalune/wakebot)
+Intelligent chatbot leveraging RAG properties and OpenAI API
+- 💬 Implemented Retrieval-Augmented Generation for context-aware responses
+- 🔍 Integrated with OpenAI API for natural language understanding
+- 🎯 Designed to assist website users with navigation and information retrieval
+
+### [Custom LLM Implementation](https://github.com/vitalune/LLM-Project)
+End-to-end implementation of a Large Language Model using Python and Jupyter Lab
+- 🏗️ Built transformer architecture from scratch with multi-head attention
+- 🔧 Implemented custom tokenizer and training pipeline
+- 📚 Created comprehensive documentation for educational purposes
+
+## 🛠️ Technical Skills
+
+### AI/ML Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff)
+![Transformers](https://img.shields.io/badge/Transformers-FFD43B?logo=huggingface&logoColor=333)
+![LangChain](https://img.shields.io/badge/LangChain-121212?logo=chainlink&logoColor=fff)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff)
+
+**Expertise:** Fine-tuning (QLoRA, LoRA), RAG Systems, Transformer Architecture, Model Evaluation, Prompt Engineering
+
+### Web Technologies
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=333)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=fff)
+![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=333)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+
+### Cloud & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)
+![RunPod](https://img.shields.io/badge/RunPod-6B46C1?logo=rocket&logoColor=fff)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?logo=githubactions&logoColor=fff)
+
+## 🎓 Education & Certifications
+
+- 🎓 **University of Pittsburgh** - B.S. Computer Science (2025-2029)
+- 📚 **Harvard CS50** - Introduction to Computer Science (Completed)
+- 🌐 **Northern Virginia Community College** - Web Design and Development
+- 🏆 **Certifications:**
+  - Certificate of Completion - Cybersecurity: Protecting Our Digital Future
+  - Certified Entry-Level Web Developer
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitalune&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitalune&layout=compact&theme=tokyonight)
+
+## 🤝 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://linkedin.com/in/amirvalizadeh)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=fff)](mailto:amirv2021@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/vitalune)
+
+---
+
+💡 **Currently exploring:** Advanced LLM architectures, MCP server implementations, and agentic AI systems
+
+🌟 **Fun fact:** I built my first transformer model from scratch at 18!
