@@ -14,18 +14,18 @@ I'm passionate about building production-ready LLMs, AI-powered applications, an
 ## 💼 Experience
 
 ### 🔧 Large Language Model (LLM) Developer
-*Self-employed | April 2025 - Present*
+*April 2025 - Present*
 - Built GPT-style transformer from scratch using PyTorch with custom tokenizer and attention mechanisms
 - Fine-tuned models on instruction datasets, deployed via Chainlit for real-time interaction
 - Created open-source educational resources with LLaMA-based scoring
 
 ### 🤖 AI Assistant Developer @ hello EIKO
-*AI Startup | August 2024 - Present*
+*Freelance | August 2024 - March 2025*
 - Developing AI solutions for SEO & lead generation with RAG chatbots using OpenAI API
 - Building context-aware customer support bots with enhanced website navigation
 
 ### 🌐 NextJS Web Developer
-*Freelance | 2024 - Present*
+*2024 - Present*
 - Building modern web apps with React/Next.js, TypeScript, and Tailwind CSS
 - Creating 3D visualizations with React Three Fiber and particle effects
 
