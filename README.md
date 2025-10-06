@@ -60,12 +60,12 @@ Building the future of AI-powered applications
 ## 🔥 Featured Projects
 
 ### 🎨 Agent Playground
-> 7 AI Agents | Three.js | Claude Code SDK
+> 7 AI Agents | Three.js | Claude Agents SDK
 
 A multi-app application created using agentic engineering.
 
 ### 🎯 Ovarra-v1 - AI Business Planning Model
-> Fine-tuned Mistral-7B | **500+ downloads** | 12+ community quantizations
+> Fine-tuned Mistral-7B | **700+ downloads** | 12+ community quantizations
 
 Trained on 1,500 GPT-4 samples using QLoRA optimization for enterprise business planning.
 
@@ -77,7 +77,7 @@ Enables Claude AI to execute autonomous agent tasks through standardized server 
 ### 🌐 AvikonAI - AI Profile Generator
 > Next.js | Gemini AI | Pixo Integration
 
-Full-stack AI-powered profile picture generator with advanced editing capabilities.
+Full-stack AI-powered profile picture generator with advanced editing capabilities (This created my profile picture!).
 
 ### 💼 Optimarch - B2B AI Platform
 > **71% LinkedIn conversion** | 100/100 Lighthouse scores
