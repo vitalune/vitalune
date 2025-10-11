@@ -103,7 +103,7 @@ Enterprise AI services platform with perfect SEO and performance metrics.
 **🏢 Persona Biomed** - Software Engineer Intern  
 Building secure LLM systems for biomarker data & automated blood test reports
 
-**🏫 UPitt Computational Linguistics** - ML Engineer  
+**🏫 Pitt Computational Linguistics** - ML Engineer  
 Leading dataset pipeline for 100,000+ text lines & 200+ hours of voice recordings
 
 **💡 hello EIKO** - RAG AI Developer  
