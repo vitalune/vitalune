@@ -15,7 +15,7 @@
 
 ## About Me
 
-It's hard for me to pretend I have hobbies. I'm single-minded about AI- When I'm not engineering, I'm thinking about engineering. Lunch and dinner are usually my breaks from work, and I spend them watching podcasts of the frontier AI CEOs. I'm constantly thinking of ways to out-step the rest of the AI world, and I think I'm close.  
+I won't pretend I have tons of hobbies, I'm single-minded about AI- When I'm not engineering, I'm thinking about engineering. Lunch and dinner are usually my breaks from work, and I spend them watching podcasts of the frontier AI CEOs. I'm constantly thinking of ways to out-step the rest of the AI world, and I think I'm close.  
 
 > *"We're building ghosts that learn like humans do. The potential is making them more animal-like over time—more alive." — Andrej Karpathy*
 
