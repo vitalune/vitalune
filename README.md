@@ -21,52 +21,13 @@ It's hard for me to pretend I have hobbies. I'm single-minded about AI- When I'm
 
 ---
 
-## Featured Projects
+## Experience
 
-<table>
-<tr>
-<td>
+**Software Engineer Intern** @ Persona Biomed  
+`LLMs · LangChain · Secure Pipelines`
 
-### Agent Playground
-> 7 AI Agents | Three.js | Claude Agents SDK
+**ML Engineer** @ Pitt Computational Linguistics  
+`NLP · Multilingual Datasets · 200k+ samples`
 
-A multi-app application created using agentic engineering.
-
-</td>
-<td>
-
-### LLM-Project
-> LLMs-from-scratch | PyTorch | Ollama
-
-Engineered and documented a full build of GPT2 architecture, including transformer blocks, embedding layers, etc.
-
-</td>
-</tr>
-<tr>
-<td>
-
-### Ovarra-v1 - AI Business Planning Model
-> Fine-tuned Mistral-7B | **700+ downloads** | 12+ community quantizations
-
-Trained on 1,500 GPT-4 samples using QLoRA optimization for enterprise business planning.
-
-</td>
-<td>
-
-### Nexus-MCP - Personal Assistant Server
-> Model Context Protocol | 7 autonomous capabilities
-
-Enables Claude AI to execute autonomous agent tasks through standardized server protocol.
-
-</td>
-</tr>
-</table>
-
----
-
-## 📜 Certifications
-
-✅ AI Agents - Hugging Face  
-✅ CS50 - Harvard University  
-✅ Cybersecurity - Georgetown University  
-✅ Entry-Level Web Developer - JS Institute
+**AI Pedagogy Developer** @ Pitt Technical Writing  
+`RAG · LlamaIndex · Streamlit`
